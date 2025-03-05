@@ -1,0 +1,9 @@
+inputs:
+  - name: file
+    config:
+      path: "/var/log/test2.log"
+
+outputs:
+  - name: stdout
+    config:
+      pretty_print: true

@@ -1,0 +1,100 @@
+{"level":"info","time":"2025-03-05T20:46:00+08:00","message":"Hello gostash"}
+{"level":"info","time":"2025-03-05T20:46:00+08:00","message":"kafka"}
+{"level":"info","time":"2025-03-05T20:46:00+08:00","message":"group.id,gostash-biflow-test"}
+{"level":"info","time":"2025-03-05T20:46:00+08:00","message":"broker.address.family,v4"}
+{"level":"info","time":"2025-03-05T20:46:00+08:00","message":"session.timeout.ms,6000"}
+{"level":"info","time":"2025-03-05T20:46:00+08:00","message":"enable.auto.commit,true"}
+{"level":"info","time":"2025-03-05T20:46:00+08:00","message":"enable.auto.offset.store,false"}
+{"level":"info","time":"2025-03-05T20:46:00+08:00","message":"auto.offset.reset,earliest"}
+{"level":"info","time":"2025-03-05T20:46:00+08:00","message":"security.protocol,SASL_PLAINTEXT"}
+{"level":"info","time":"2025-03-05T20:46:00+08:00","message":"bootstrap.servers,yq01-ensec-data236.yq01.baidu.com:8092,yq01-ensec-data237.yq01.baidu.com:8092,yq01-ensec-data238.yq01.baidu.com:8092,yq01-ensec-data239.yq01.baidu.com:8092,yq01-ensec-data240.yq01.baidu.com:8092"}
+{"level":"info","time":"2025-03-05T20:49:51+08:00","message":"Hello gostash"}
+{"level":"info","time":"2025-03-05T20:49:51+08:00","message":"kafka"}
+{"level":"info","time":"2025-03-05T20:49:51+08:00","message":"security.protocol,SASL_PLAINTEXT"}
+{"level":"info","time":"2025-03-05T20:49:51+08:00","message":"bootstrap.servers,yq01-ensec-data236.yq01.baidu.com:8092,yq01-ensec-data237.yq01.baidu.com:8092,yq01-ensec-data238.yq01.baidu.com:8092,yq01-ensec-data239.yq01.baidu.com:8092,yq01-ensec-data240.yq01.baidu.com:8092"}
+{"level":"info","time":"2025-03-05T20:49:51+08:00","message":"group.id,gostash-biflow-test"}
+{"level":"info","time":"2025-03-05T20:49:51+08:00","message":"broker.address.family,v4"}
+{"level":"info","time":"2025-03-05T20:49:51+08:00","message":"session.timeout.ms,6000"}
+{"level":"info","time":"2025-03-05T20:49:51+08:00","message":"enable.auto.commit,true"}
+{"level":"info","time":"2025-03-05T20:49:51+08:00","message":"enable.auto.offset.store,false"}
+{"level":"info","time":"2025-03-05T20:49:51+08:00","message":"auto.offset.reset,earliest"}
+{"level":"info","time":"2025-03-05T20:49:51+08:00","message":"stdout"}
+{"level":"info","time":"2025-03-05T20:50:23+08:00","message":"Hello gostash"}
+{"level":"info","time":"2025-03-05T20:50:23+08:00","message":"kafka"}
+{"level":"info","time":"2025-03-05T20:50:23+08:00","message":"broker.address.family,v4"}
+{"level":"info","time":"2025-03-05T20:50:23+08:00","message":"session.timeout.ms,6000"}
+{"level":"info","time":"2025-03-05T20:50:23+08:00","message":"enable.auto.commit,true"}
+{"level":"info","time":"2025-03-05T20:50:23+08:00","message":"enable.auto.offset.store,false"}
+{"level":"info","time":"2025-03-05T20:50:23+08:00","message":"auto.offset.reset,earliest"}
+{"level":"info","time":"2025-03-05T20:50:23+08:00","message":"security.protocol,SASL_PLAINTEXT"}
+{"level":"info","time":"2025-03-05T20:50:23+08:00","message":"bootstrap.servers,yq01-ensec-data236.yq01.baidu.com:8092,yq01-ensec-data237.yq01.baidu.com:8092,yq01-ensec-data238.yq01.baidu.com:8092,yq01-ensec-data239.yq01.baidu.com:8092,yq01-ensec-data240.yq01.baidu.com:8092"}
+{"level":"info","time":"2025-03-05T20:50:23+08:00","message":"group.id,gostash-biflow-test"}
+{"level":"info","time":"2025-03-05T20:50:46+08:00","message":"Hello gostash"}
+{"level":"info","time":"2025-03-05T20:50:46+08:00","message":"kafka"}
+{"level":"info","time":"2025-03-05T20:50:46+08:00","message":"enable.auto.offset.store,false"}
+{"level":"info","time":"2025-03-05T20:50:46+08:00","message":"auto.offset.reset,earliest"}
+{"level":"info","time":"2025-03-05T20:50:46+08:00","message":"security.protocol,SASL_PLAINTEXT"}
+{"level":"info","time":"2025-03-05T20:50:46+08:00","message":"bootstrap.servers,yq01-ensec-data236.yq01.baidu.com:8092,yq01-ensec-data237.yq01.baidu.com:8092,yq01-ensec-data238.yq01.baidu.com:8092,yq01-ensec-data239.yq01.baidu.com:8092,yq01-ensec-data240.yq01.baidu.com:8092"}
+{"level":"info","time":"2025-03-05T20:50:46+08:00","message":"group.id,gostash-biflow-test"}
+{"level":"info","time":"2025-03-05T20:50:46+08:00","message":"broker.address.family,v4"}
+{"level":"info","time":"2025-03-05T20:50:46+08:00","message":"session.timeout.ms,6000"}
+{"level":"info","time":"2025-03-05T20:50:46+08:00","message":"enable.auto.commit,true"}
+{"level":"info","time":"2025-03-05T20:51:47+08:00","message":"Hello gostash"}
+{"level":"info","time":"2025-03-05T20:51:47+08:00","message":"kafka"}
+{"level":"info","time":"2025-03-05T20:51:47+08:00","message":"broker.address.family,v4"}
+{"level":"info","time":"2025-03-05T20:51:47+08:00","message":"session.timeout.ms,6000"}
+{"level":"info","time":"2025-03-05T20:51:47+08:00","message":"enable.auto.commit,true"}
+{"level":"info","time":"2025-03-05T20:51:47+08:00","message":"enable.auto.offset.store,false"}
+{"level":"info","time":"2025-03-05T20:51:47+08:00","message":"auto.offset.reset,earliest"}
+{"level":"info","time":"2025-03-05T20:51:47+08:00","message":"security.protocol,SASL_PLAINTEXT"}
+{"level":"info","time":"2025-03-05T20:51:47+08:00","message":"bootstrap.servers,yq01-ensec-data236.yq01.baidu.com:8092,yq01-ensec-data237.yq01.baidu.com:8092,yq01-ensec-data238.yq01.baidu.com:8092,yq01-ensec-data239.yq01.baidu.com:8092,yq01-ensec-data240.yq01.baidu.com:8092"}
+{"level":"info","time":"2025-03-05T20:51:47+08:00","message":"group.id,gostash-biflow-test"}
+{"level":"info","time":"2025-03-05T20:51:47+08:00","message":"stdout"}
+{"level":"info","time":"2025-03-05T20:51:47+08:00","message":"启动到这里了"}
+{"level":"info","time":"2025-03-05T20:52:25+08:00","message":"Hello gostash"}
+{"level":"info","time":"2025-03-05T20:52:25+08:00","message":"kafka"}
+{"level":"info","time":"2025-03-05T20:52:25+08:00","message":"enable.auto.commit,true"}
+{"level":"info","time":"2025-03-05T20:52:25+08:00","message":"enable.auto.offset.store,false"}
+{"level":"info","time":"2025-03-05T20:52:25+08:00","message":"auto.offset.reset,earliest"}
+{"level":"info","time":"2025-03-05T20:52:25+08:00","message":"security.protocol,SASL_PLAINTEXT"}
+{"level":"info","time":"2025-03-05T20:52:25+08:00","message":"bootstrap.servers,yq01-ensec-data236.yq01.baidu.com:8092,yq01-ensec-data237.yq01.baidu.com:8092,yq01-ensec-data238.yq01.baidu.com:8092,yq01-ensec-data239.yq01.baidu.com:8092,yq01-ensec-data240.yq01.baidu.com:8092"}
+{"level":"info","time":"2025-03-05T20:52:25+08:00","message":"group.id,gostash-biflow-test"}
+{"level":"info","time":"2025-03-05T20:52:25+08:00","message":"broker.address.family,v4"}
+{"level":"info","time":"2025-03-05T20:52:25+08:00","message":"session.timeout.ms,6000"}
+{"level":"info","time":"2025-03-05T20:52:25+08:00","message":"stdout"}
+{"level":"info","time":"2025-03-05T20:52:25+08:00","message":"启动到这里了"}
+{"level":"info","time":"2025-03-05T20:53:30+08:00","message":"Hello gostash"}
+{"level":"info","time":"2025-03-05T20:53:30+08:00","message":"kafka"}
+{"level":"info","time":"2025-03-05T20:53:30+08:00","message":"enable.auto.commit,true"}
+{"level":"info","time":"2025-03-05T20:53:30+08:00","message":"enable.auto.offset.store,false"}
+{"level":"info","time":"2025-03-05T20:53:30+08:00","message":"auto.offset.reset,earliest"}
+{"level":"info","time":"2025-03-05T20:53:30+08:00","message":"security.protocol,SASL_PLAINTEXT"}
+{"level":"info","time":"2025-03-05T20:53:30+08:00","message":"bootstrap.servers,yq01-ensec-data236.yq01.baidu.com:8092,yq01-ensec-data237.yq01.baidu.com:8092,yq01-ensec-data238.yq01.baidu.com:8092,yq01-ensec-data239.yq01.baidu.com:8092,yq01-ensec-data240.yq01.baidu.com:8092"}
+{"level":"info","time":"2025-03-05T20:53:30+08:00","message":"group.id,gostash-biflow-test"}
+{"level":"info","time":"2025-03-05T20:53:30+08:00","message":"broker.address.family,v4"}
+{"level":"info","time":"2025-03-05T20:53:30+08:00","message":"session.timeout.ms,6000"}
+{"level":"info","time":"2025-03-05T20:53:30+08:00","message":"stdout"}
+{"level":"info","time":"2025-03-05T20:53:30+08:00","time":"2025-03-05T20:53:30+08:00","message":"执行到这里俄"}
+{"level":"info","time":"2025-03-05T20:54:16+08:00","message":"Hello gostash"}
+{"level":"info","time":"2025-03-05T20:54:16+08:00","message":"kafka"}
+{"level":"info","time":"2025-03-05T20:54:16+08:00","message":"auto.offset.reset,earliest"}
+{"level":"info","time":"2025-03-05T20:54:16+08:00","message":"security.protocol,SASL_PLAINTEXT"}
+{"level":"info","time":"2025-03-05T20:54:16+08:00","message":"bootstrap.servers,yq01-ensec-data236.yq01.baidu.com:8092,yq01-ensec-data237.yq01.baidu.com:8092,yq01-ensec-data238.yq01.baidu.com:8092,yq01-ensec-data239.yq01.baidu.com:8092,yq01-ensec-data240.yq01.baidu.com:8092"}
+{"level":"info","time":"2025-03-05T20:54:16+08:00","message":"group.id,gostash-biflow-test"}
+{"level":"info","time":"2025-03-05T20:54:16+08:00","message":"broker.address.family,v4"}
+{"level":"info","time":"2025-03-05T20:54:16+08:00","message":"session.timeout.ms,6000"}
+{"level":"info","time":"2025-03-05T20:54:16+08:00","message":"enable.auto.commit,true"}
+{"level":"info","time":"2025-03-05T20:54:16+08:00","message":"enable.auto.offset.store,false"}
+{"level":"info","time":"2025-03-05T20:54:16+08:00","message":"stdout"}
+{"level":"fatal","time":"2025-03-05T20:54:16+08:00","message":"Error creating consumer: Invalid sasl.kerberos.kinit.cmd value: Property not available: \"sasl.kerberos.keytab\"\n"}
+{"level":"fatal","time":"2025-03-05T20:54:16+08:00","message":"Error creating consumer: Invalid sasl.kerberos.kinit.cmd value: Property not available: \"sasl.kerberos.keytab\"\n"}
+{"level":"info","time":"2025-03-05T20:54:47+08:00","message":"Hello gostash"}
+{"level":"info","time":"2025-03-05T20:54:47+08:00","message":"kafka"}
+{"level":"info","time":"2025-03-05T20:54:47+08:00","message":"enable.auto.offset.store,false"}
+{"level":"info","time":"2025-03-05T20:54:47+08:00","message":"auto.offset.reset,earliest"}
+{"level":"info","time":"2025-03-05T20:54:47+08:00","message":"bootstrap.servers,yq01-ensec-data236.yq01.baidu.com:8092,yq01-ensec-data237.yq01.baidu.com:8092,yq01-ensec-data238.yq01.baidu.com:8092,yq01-ensec-data239.yq01.baidu.com:8092,yq01-ensec-data240.yq01.baidu.com:8092"}
+{"level":"info","time":"2025-03-05T20:54:47+08:00","message":"group.id,gostash-biflow-test"}
+{"level":"info","time":"2025-03-05T20:54:47+08:00","message":"broker.address.family,v4"}
+{"level":"info","time":"2025-03-05T20:54:47+08:00","message":"session.timeout.ms,6000"}
+{"level":"info","time":"2025-03-05T20:54:47+08:00","message":"enable.auto.commit,true"}
+{"level":"info","time":"2025-03-05T20:54:47+08:00","message":"stdout"}

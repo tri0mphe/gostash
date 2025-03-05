@@ -1,0 +1,5 @@
+inputs:
+  - name: stdin
+
+outputs:
+  - name: stdout
