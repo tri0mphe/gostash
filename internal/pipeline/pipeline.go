@@ -74,7 +74,7 @@ func (p *Pipeline) Run(ctx context.Context) {
 		}(output)
 	}
 	outputWg.Wait()
-	log.Info().Timestamp().Msg("执行到这里俄")
+	log.Info().Timestamp().Msg("pipeline全部运行结束")
 }
 
 func NewPipeline(cfg *PipelineConfig) (*Pipeline, error) {

@@ -98,3 +98,13 @@
 {"level":"info","time":"2025-03-05T20:54:47+08:00","message":"session.timeout.ms,6000"}
 {"level":"info","time":"2025-03-05T20:54:47+08:00","message":"enable.auto.commit,true"}
 {"level":"info","time":"2025-03-05T20:54:47+08:00","message":"stdout"}
+{"level":"info","time":"2025-03-05T21:18:22+08:00","message":"Hello gostash"}
+{"level":"info","time":"2025-03-05T21:18:22+08:00","message":"kafka"}
+{"level":"info","time":"2025-03-05T21:18:22+08:00","message":"enable.auto.offset.store,false"}
+{"level":"info","time":"2025-03-05T21:18:22+08:00","message":"auto.offset.reset,earliest"}
+{"level":"info","time":"2025-03-05T21:18:22+08:00","message":"bootstrap.servers,yq01-ensec-data236.yq01.baidu.com:8092,yq01-ensec-data237.yq01.baidu.com:8092,yq01-ensec-data238.yq01.baidu.com:8092,yq01-ensec-data239.yq01.baidu.com:8092,yq01-ensec-data240.yq01.baidu.com:8092"}
+{"level":"info","time":"2025-03-05T21:18:22+08:00","message":"group.id,gostash-biflow-test"}
+{"level":"info","time":"2025-03-05T21:18:22+08:00","message":"broker.address.family,v4"}
+{"level":"info","time":"2025-03-05T21:18:22+08:00","message":"session.timeout.ms,6000"}
+{"level":"info","time":"2025-03-05T21:18:22+08:00","message":"enable.auto.commit,true"}
+{"level":"info","time":"2025-03-05T21:18:22+08:00","message":"stdout"}

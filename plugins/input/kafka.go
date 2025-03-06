@@ -76,14 +76,12 @@ func (k *KafkaInputBuilder) Build(conf map[string]interface{}) (plugin.Input, er
 	if v, ok := conf["kafka_config"]; !ok {
 		log.Fatal().Msg("kafka input must have kafka_config")
 	} else {
+		// conver map[interface{}]interface{] to map[stirng]interface{}
 		if err := mapstructure.Decode(v, &kafkaConfig); err != nil {
 			return nil, err
 		}
-		// official json marshal: unsupported type: map[interface {}]interface {}
 	}
-	for k, v := range kafkaConfig {
-		log.Info().Msgf("%v,%v", k, v)
-	}
+
 	topic, ok := conf["topic"].(string)
 	if !ok {
 		log.Fatal().Msg("kafka input config must have key:toipc")
